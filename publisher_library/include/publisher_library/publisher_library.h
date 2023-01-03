@@ -1,3 +1,13 @@
+/**
+ * @file publisher_library.h
+ *
+ * @brief Header file for the publisher library
+ *
+ * @author Antonio Mauro Galiano
+ * Contact: https://www.linkedin.com/in/antoniomaurogaliano/
+ *
+ */
+
 #ifndef PUBLISHER_LIBRARY_H
 #define PUBLISHER_LIBRARY_H
 

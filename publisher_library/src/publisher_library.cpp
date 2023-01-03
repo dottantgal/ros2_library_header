@@ -1,3 +1,12 @@
+/**
+ * @file publisher_library.cpp
+ *
+ * @brief A basic publisher library made with header file
+ *
+ * @author Antonio Mauro Galiano
+ * Contact: https://www.linkedin.com/in/antoniomaurogaliano/
+ *
+ */
 
 #include "publisher_library/publisher_library.h"
 

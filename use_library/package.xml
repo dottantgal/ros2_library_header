@@ -3,8 +3,8 @@
 <package format="3">
   <name>use_library</name>
   <version>0.0.0</version>
-  <description>TODO: Package description</description>
-  <maintainer email="dottantgal@users.noreply.github.com">white</maintainer>
+  <description>A basic node to use the publisher library</description>
+  <maintainer email="">Antonio Mauro Galiano</maintainer>
   <license>TODO: License declaration</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
